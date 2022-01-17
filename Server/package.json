@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b main -d build",
+
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "start-server": "node index.js"
-  },
+  },  
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -16,5 +20,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.8",
     "nodemon": "^2.0.6"
-  }
+  },
+  "homepage": "https://ks1.github.io/HW20-ReactPortfolio/"
+  
 }
