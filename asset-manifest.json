@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/HW20-ReactPortfolio/static/css/main.94b192a3.chunk.css",
+    "main.js": "/HW20-ReactPortfolio/static/js/main.26f2a5af.chunk.js",
+    "main.js.map": "/HW20-ReactPortfolio/static/js/main.26f2a5af.chunk.js.map",
+    "runtime-main.js": "/HW20-ReactPortfolio/static/js/runtime-main.aae70c76.js",
+    "runtime-main.js.map": "/HW20-ReactPortfolio/static/js/runtime-main.aae70c76.js.map",
+    "static/css/2.e7f3f9d7.chunk.css": "/HW20-ReactPortfolio/static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.6f3389de.chunk.js": "/HW20-ReactPortfolio/static/js/2.6f3389de.chunk.js",
+    "static/js/2.6f3389de.chunk.js.map": "/HW20-ReactPortfolio/static/js/2.6f3389de.chunk.js.map",
+    "static/js/3.82fba7f6.chunk.js": "/HW20-ReactPortfolio/static/js/3.82fba7f6.chunk.js",
+    "static/js/3.82fba7f6.chunk.js.map": "/HW20-ReactPortfolio/static/js/3.82fba7f6.chunk.js.map",
+    "index.html": "/HW20-ReactPortfolio/index.html",
+    "static/css/2.e7f3f9d7.chunk.css.map": "/HW20-ReactPortfolio/static/css/2.e7f3f9d7.chunk.css.map",
+    "static/css/main.94b192a3.chunk.css.map": "/HW20-ReactPortfolio/static/css/main.94b192a3.chunk.css.map",
+    "static/js/2.6f3389de.chunk.js.LICENSE.txt": "/HW20-ReactPortfolio/static/js/2.6f3389de.chunk.js.LICENSE.txt",
+    "static/media/CodingQuiz.3042fbed.png": "/HW20-ReactPortfolio/static/media/CodingQuiz.3042fbed.png",
+    "static/media/EmployeeTracker.30704882.png": "/HW20-ReactPortfolio/static/media/EmployeeTracker.30704882.png",
+    "static/media/NoteTaker.b5d62063.png": "/HW20-ReactPortfolio/static/media/NoteTaker.b5d62063.png",
+    "static/media/ReadMeGenerator.1a06fee6.jpg": "/HW20-ReactPortfolio/static/media/ReadMeGenerator.1a06fee6.jpg",
+    "static/media/Resume_KS.b557453e.pdf": "/HW20-ReactPortfolio/static/media/Resume_KS.b557453e.pdf",
+    "static/media/TeamProfileGenerator.0dd6f1fa.png": "/HW20-ReactPortfolio/static/media/TeamProfileGenerator.0dd6f1fa.png",
+    "static/media/about.98018471.png": "/HW20-ReactPortfolio/static/media/about.98018471.png",
+    "static/media/avatar.c81dd0f5.png": "/HW20-ReactPortfolio/static/media/avatar.c81dd0f5.png",
+    "static/media/style.css": "/HW20-ReactPortfolio/static/media/pre.d4812f51.svg",
+    "static/media/logo.55f05fc1.png": "/HW20-ReactPortfolio/static/media/logo.55f05fc1.png",
+    "static/media/weather.c4fdaf16.png": "/HW20-ReactPortfolio/static/media/weather.c4fdaf16.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae70c76.js",
+    "static/css/2.e7f3f9d7.chunk.css",
+    "static/js/2.6f3389de.chunk.js",
+    "static/css/main.94b192a3.chunk.css",
+    "static/js/main.26f2a5af.chunk.js"
+  ]
+}
